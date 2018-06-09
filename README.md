@@ -1,6 +1,7 @@
 # balck-jack-python
 
 This is a project written in Python version 3.6.5
+
 External modules used here are 'random' and 'tkinter'.
 
 Module Tkinter is used for the GUI programming and displays
